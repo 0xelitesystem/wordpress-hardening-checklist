@@ -8,12 +8,12 @@ Most WordPress sites are compromised through a handful of predictable weaknesses
 
 ## What is inside
 
-- `01-accounts-and-logins.md` the most attacked surface, and how to lock it down.
-- `02-updates-and-plugins.md` why outdated and abandoned plugins are the top risk.
-- `03-file-and-server.md` permissions and settings that limit the damage.
-- `04-database-and-backups.md` protecting data and being able to recover it.
-- `05-headers-and-transport.md` HTTPS and security headers in plain terms.
-- `06-hardening-checklist.md` the full check in one place.
+- [01-accounts-and-logins.md](01-accounts-and-logins.md) the most attacked surface, and how to lock it down.
+- [02-updates-and-plugins.md](02-updates-and-plugins.md) why outdated and abandoned plugins are the top risk.
+- [03-file-and-server.md](03-file-and-server.md) permissions and settings that limit the damage.
+- [04-database-and-backups.md](04-database-and-backups.md) protecting data and being able to recover it.
+- [05-headers-and-transport.md](05-headers-and-transport.md) HTTPS and security headers in plain terms.
+- [06-hardening-checklist.md](06-hardening-checklist.md) the full check in one place.
 
 ## How this fits the portfolio
 
@@ -26,6 +26,10 @@ Start with `01` and `02`, because logins and plugins are where most real attacks
 ## A note on scope
 
 This is general guidance, not a guarantee. Security is ongoing, threats change, and no checklist makes a site unbreakable. The goal is to close the common, known weaknesses and to be able to recover if something still gets through.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
