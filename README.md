@@ -2,6 +2,8 @@
 
 A practical reference for making a WordPress site harder to break into and easier to recover. It covers accounts and logins, updates and plugins, file and server settings, database and backups, and transport and headers, ending in a single checklist you can run on any site.
 
+An independent project. Not affiliated with, endorsed by, or sponsored by the WordPress Foundation or Automattic.
+
 ## The core idea
 
 Most WordPress sites are compromised through a handful of predictable weaknesses: weak logins, outdated plugins, and missing backups. Hardening is mostly closing those known doors rather than chasing exotic threats. A site with strong logins, current and trimmed plugins, working backups, and traffic served over HTTPS has already avoided the large majority of real-world attacks.
